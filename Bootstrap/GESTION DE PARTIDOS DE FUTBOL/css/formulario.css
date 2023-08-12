@@ -1,0 +1,39 @@
+
+
+.table{
+    border-radius: 25px;
+    color: black;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    
+}
+
+header {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 25px 0;
+
+}
+a {
+   text-align: right;
+}
+
+/* Estilo personalizado para hacer la tabla más grande */
+.table-large {
+    font-size: 108px; /* Cambia el tamaño de fuente para hacer la tabla más grande */
+  }
+
+  .modal-dialog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
